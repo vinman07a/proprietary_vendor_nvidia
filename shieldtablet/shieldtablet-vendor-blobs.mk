@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/nvidia/shieldtablet/proprietary/etc/nvram_43241.txt:system/etc/nvram_43241.txt \
     vendor/nvidia/shieldtablet/proprietary/etc/ussrd.conf:system/etc/ussrd.conf \
     vendor/nvidia/shieldtablet/proprietary/lib/hw/gps.brcm.so:system/lib/hw/gps.brcm.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/hw/power.tegra.so:system/lib/hw/power.tegra.so \
     vendor/nvidia/shieldtablet/proprietary/lib/hw/sensors.tegra.so:system/lib/hw/sensors.tegra.so \
     vendor/nvidia/shieldtablet/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
     vendor/nvidia/shieldtablet/proprietary/lib/libmllite.so:system/lib/libmllite.so \
