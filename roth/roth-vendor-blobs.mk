@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/nvidia/roth/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
     vendor/nvidia/roth/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
     vendor/nvidia/roth/proprietary/lib/hw/keystore.tegra.so:system/lib/hw/keystore.tegra.so \
-    vendor/nvidia/roth/proprietary/lib/hw/sensors.roth.so:system/lib/hw/sensors.roth.so \
     vendor/nvidia/roth/proprietary/lib/hw/ts.default.so:system/lib/hw/ts.default.so \
     vendor/nvidia/roth/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/nvidia/roth/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
@@ -47,9 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/nvidia/roth/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/nvidia/roth/proprietary/lib/librm31080.so:system/lib/librm31080.so \
     vendor/nvidia/roth/proprietary/lib/librm_ts_service.so:system/lib/librm_ts_service.so \
-    vendor/nvidia/roth/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
-    vendor/nvidia/roth/proprietary/lib/libsensors.mpl.so:system/lib/libsensors.mpl.so \
-    vendor/nvidia/roth/proprietary/lib/libsensors.nvs_input.so:system/lib/libsensors.nvs_input.so \
     vendor/nvidia/roth/proprietary/lib/libtf_crypto_sst.so:system/lib/libtf_crypto_sst.so \
     vendor/nvidia/roth/proprietary/vendor/bin/btmacwriter:system/vendor/bin/btmacwriter \
     vendor/nvidia/roth/proprietary/vendor/bin/nvcgcserver:system/vendor/bin/nvcgcserver \

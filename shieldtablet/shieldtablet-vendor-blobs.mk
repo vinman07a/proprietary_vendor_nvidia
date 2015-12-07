@@ -48,18 +48,9 @@ PRODUCT_COPY_FILES += \
     vendor/nvidia/shieldtablet/proprietary/etc/nvram_43241.txt:system/etc/nvram_43241.txt \
     vendor/nvidia/shieldtablet/proprietary/etc/ussrd.conf:system/etc/ussrd.conf \
     vendor/nvidia/shieldtablet/proprietary/lib/hw/gps.brcm.so:system/lib/hw/gps.brcm.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/hw/sensors.tegra.so:system/lib/hw/sensors.tegra.so \
     vendor/nvidia/shieldtablet/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libmllite.so:system/lib/libmllite.so \
     vendor/nvidia/shieldtablet/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/nvidia/shieldtablet/proprietary/lib/libopencv24_tegra.so:system/lib/libopencv24_tegra.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.bmpx80.so:system/lib/libsensors.bmpx80.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.iio.lights.so:system/lib/libsensors.iio.lights.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.ltr558als.so:system/lib/libsensors.ltr558als.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.max44005.so:system/lib/libsensors.max44005.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.mpl.so:system/lib/libsensors.mpl.so \
-    vendor/nvidia/shieldtablet/proprietary/lib/libsensors.nvs_input.so:system/lib/libsensors.nvs_input.so \
     vendor/nvidia/shieldtablet/proprietary/lib/libtbb.so:system/lib/libtbb.so \
     vendor/nvidia/shieldtablet/proprietary/lib/nvcms/device.cfg:system/lib/nvcms/device.cfg \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/btmacwriter:system/vendor/bin/btmacwriter \
